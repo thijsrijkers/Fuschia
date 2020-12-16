@@ -48,3 +48,10 @@
 </tr>
 </tbody>
 </table>
+
+<h2> Supported</h2>
+ <p>Were supporting only two programming languages atm. These are Javascript and Typescript. We are making Fuschia specific for Javascript but because we are making it in Typescript it will also work with Typescript. There are no plans to bring Fuschia to other programming languages.</p>
+  <h3> Supported Languages</h3>
+  <ul>
+   <li>Javascript</li>
+   <li>Typescript</li></ul>
