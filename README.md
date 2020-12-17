@@ -22,6 +22,27 @@
 <td>Add()</td>
 <td>Add value to your farray</td>
 </tr>
+<tr>
+<td>RemoveValue()</td>
+<td>Removes any value to the farray based on the value added</td>
+</tr>
+<tr>
+<td>Find()</td>
+<td>Find value in farray and returns it</td>
+</tr>
+<tr>
+<td>Contains()</td>
+<td>Find value in farray and returns it</td>
+</tr>
+<tr>
+<td>Pop()</td>
+<td>Removes last element and returns it</td>
+</tr>
+<tr>
+<td>Sort()</td>
+<td>Sorts elements inside the farray</td>
+</tr>
+ 
 </tbody>
 </table>
 
