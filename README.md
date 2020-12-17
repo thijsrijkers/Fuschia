@@ -67,6 +67,14 @@
 <td>StringRemovalLastFirst()</td>
 <td>Removes the first and last part of the string value</td>
 </tr>
+ <tr>
+<td>Contains()</td>
+<td>Checks if fstring contains character</td>
+</tr>
+ <tr>
+<td>Value()</td>
+<td>Returns fstring</td>
+</tr>
 </tbody>
 </table>
 
