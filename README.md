@@ -9,7 +9,7 @@ npm i fuschiascript</pre>
 
 <p>Then create your class/variable....</p>
 <pre>
-var fstr = new fstring("Fuschia");
+var fstr = new fstring("Fuschia"); <br>
 
 var far = new farray();</pre>
 
