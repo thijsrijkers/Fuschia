@@ -10,7 +10,7 @@ npm i fuschiascript</pre>
 <p>Then create your class/variable....</p>
 <pre>
 var fstr = new fstring("Fuschia"); <br>
-var far = new farray()</pre>
+var far = new farray();</pre>
 
 <h2> Documentation</h2>
  <h3> fArray : Array</h3>
