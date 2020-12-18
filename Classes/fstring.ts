@@ -2,7 +2,7 @@
 * Head class of the fString
 */
 
-class fstring
+export class fstring
 {
     value: string;
     constructor(value: string){this.value = value;}

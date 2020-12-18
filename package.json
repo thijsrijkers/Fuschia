@@ -1,6 +1,6 @@
 {
   "name": "fuschiascript",
-  "version": "0.0.2np",
+  "version": "0.0.4",
   "description": "FuschiaScript implements new functionality",
   "main": "index.js",
   "scripts": {

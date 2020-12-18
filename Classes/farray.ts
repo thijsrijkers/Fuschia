@@ -2,7 +2,7 @@
 * Head class of the fArray
 */
 
-class farray
+export class farray
 {
     value = new Array();
 
