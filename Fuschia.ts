@@ -1,3 +1,3 @@
 /**
-* Head file of Fuschia
+* Head file of Fuschia NPM
 */

@@ -1,3 +1,3 @@
 var fstr = new fstring("Fuschia");
 
-var far = new farray();;
+var far = new farray();

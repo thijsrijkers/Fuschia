@@ -1,5 +1,8 @@
+/**
+* Head class of the fString
+*/
 
-class fstring 
+class fstring
 {
     value: string;
     constructor(value: string){this.value = value;}

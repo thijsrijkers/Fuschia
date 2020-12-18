@@ -1,0 +1,22 @@
+{
+  "name": "fuschiascript",
+  "version": "0.0.2np",
+  "description": "FuschiaScript implements new functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thijsrijkers/Fuschia.git"
+  },
+  "keywords": [
+    "Fuschia"
+  ],
+  "author": "Thijs R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thijsrijkers/Fuschia/issues"
+  },
+  "homepage": "https://github.com/thijsrijkers/Fuschia#readme"
+}
