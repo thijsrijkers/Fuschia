@@ -1,4 +1,4 @@
- <p align="center"><img src="https://i.imgur.com/VeY1tOw.png" width="110" height="200"> </p>
+ <p align="center"><img src="https://i.imgur.com/nkV17gU.png" width="114" height="135"> </p>
  <p align="center"> Fuschia can be implemented in Javascript projects to create solutions with premade functions from Fuschia that can lower development time</p>
  <h2 align="center"> Fuschiascript </h2>
  <p align="center"><img src="https://media3.giphy.com/media/DU60iJFgY1QpMY6WD7/giphy.gif" width="540" height="250"> </p>
